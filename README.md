@@ -73,4 +73,4 @@ In this category, there were movies with multiple genres.
 
   <a id='conclusion'></a>
   Conclusion
-  Python was used for this project and the data was scraped from [IMDBs Website](https://www.imdb.com/search/title/?groups=top_1000&sort=alpha,asc&start=1]
+  Python was used for this project and the data was scraped from [IMDBs Website](https://www.imdb.com/search/title/?groups=top_1000&sort=alpha,asc&start=1])

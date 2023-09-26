@@ -72,5 +72,8 @@ In this category, there were movies with multiple genres.
 * The **Crime, Drama** combination had the best average rating with **8.2**.
 
   <a id='conclusion'></a>
-  Conclusion
-  Python was used for this project and the data was scraped from [IMDBs Website](https://www.imdb.com/search/title/?groups=top_1000&sort=alpha,asc&start=1])
+  ## Conclusion
+  Python was used for this project and the data was scraped from [IMDBs Website](https://www.imdb.com/search/title/?groups=top_1000&sort=alpha,asc&start=1]). The jupyter notebooks containing the data scraping codes and cleaning and analysis codes can be found in this repository.
+
+
+Thanks for reading!
